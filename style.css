@@ -75,9 +75,9 @@ body , html{
     display: flex;
     justify-content: right;
 }
-.content{
+/* .content{
     position: absolute !important;
     margin: 2%;
     bottom: 2%;
     color: #fff;
-}
+} */
